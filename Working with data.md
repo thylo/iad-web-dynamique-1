@@ -5,7 +5,7 @@ https://www.youtube.com/playlist?list=PLRqwX-V7Uu6a-SQiI4RtIwuOrLJGnel0r
 
 ### Exercices
 
-Après avoir regardé une vidéo, faire les exercices correspondant. Ne pas passer plus de 1/2 par exercice et ne pas aller trop loin dans le styling. 
+Après avoir regardé une vidéo, faire les exercices correspondant. Ne pas passer plus de 1/2h par exercice et ne pas aller trop loin dans le styling. 
 
 #### 10.3: What is JSON?
 
