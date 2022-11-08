@@ -9,9 +9,9 @@ https://www.youtube.com/playlist?list=PLRqwX-V7Uu6a-SQiI4RtIwuOrLJGnel0r
 
 Le dossier https://github.com/CodingTrain/website-archive/tree/main/Tutorials/P5JS/p5.js/10 contient le code des exemples de Dan Shiffman.
 
-#### JSONP
+#### CORS
 
-Malheureusement, les techniques de JSONP évoquées par Dan en 2015 ne fonctionnent plus avec les versions actuelles des navigateurs.
+Malheureusement, les techniques évoquées par Dan en 2015 pour contourner les limitations liées au CORS en utilisant JSONP ne fonctionnent plus avec les versions actuelles des navigateurs.
 
 Pour pallier à cette limitation, j'ai implementé un petit serveur nodeJS qui permet d'ajouter des headers CORS aux requetes qui n'en fournissent pas.
 
