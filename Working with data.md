@@ -16,7 +16,7 @@ Après avoir regardé une vidéo, faire les exercices correspondant. Ne pas pass
 
 #### 10.4: Loading JSON data from a URL (Asynchronous Callbacks!)
 
-* Installer le [[Web dynamique 1#JSONP|proxy cors]]
+* Installer le [[#CORS|proxy cors]]
 * Trouver une visualisation sympa (mais rapide, max 1/2h) pour afficher les astronautes dans leur vaisseaux respectifs.
 * Eventuellement utiliser https://p5js.org/reference/#/p5/image pour afficher une image du vaisseau.
 * Envoyer sur discord le lien vers le sketch P5
