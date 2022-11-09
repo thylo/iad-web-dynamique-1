@@ -6,13 +6,14 @@ https://www.youtube.com/playlist?list=PLRqwX-V7Uu6a-SQiI4RtIwuOrLJGnel0r
 
 ### Exercices
 
-Après avoir regardé une vidéo, faire les exercices correspondant. Ne pas passer plus de 1/2h par exercice et ne pas aller trop loin dans le styling. 
+Après avoir regardé une vidéo, faire l'exercice correspondant ci-dessous. 
+Attention à ne pas passer plus de 1/2h par exercice et ne pas aller trop loin dans le styling. 
 
 #### 10.3: What is JSON?
 
 * Choisir un set de donnée sur https://github.com/Tressley/hpjson ou https://github.com/dariusk/corpora
-* Charger le JSON en local ou referencer son url distante (p.ex `https://raw.githubusercontent.com/Tressley/hpjson/master/sets/adventures%20at%20hogwarts/cards.json`)
-* Afficher une liste des données récupérées. 
+* Charger le JSON en local
+* Afficher en liste les données récupérées. 
 * Envoyer sur discord le lien vers le sketch P5 
 
 #### 10.4: Loading JSON data from a URL (Asynchronous Callbacks!)
@@ -22,7 +23,7 @@ Après avoir regardé une vidéo, faire les exercices correspondant. Ne pas pass
 * Eventuellement utiliser https://p5js.org/reference/#/p5/image pour afficher une image du vaisseau.
 * Envoyer sur discord le lien vers le sketch P5
 
-### 10.5: Working with APIs in Javascript - p5.js Tutorial
+#### 10.5: Working with APIs in Javascript - p5.js Tutorial
 
 * Se créer un compte sur https://openweathermap.org/
 * Recuperer son API key sur https://home.openweathermap.org/api_keys
@@ -65,4 +66,3 @@ Pour pallier à cette limitation, j'ai implementé un petit serveur nodeJS qui p
 Les instructions pour son utilisation se trouvent ici : https://github.com/thylo/iad-cors-proxy
 
 Exemple : https://editor.p5js.org/thylo/sketches/mBCBJ9Hmd
-

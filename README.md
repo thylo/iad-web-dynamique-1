@@ -13,7 +13,7 @@ Donner aux étudiants une culture interactive et les clefs pour réaliser des œ
 
 ### Participation
 
-Ce cours sera très participatif. J'attend de vous que vous contribuiez aux discussions, que vous vous engagiez dans des travaux de groupe, que vous donniez des commentaires à vos pairs et que vous soyez pleinement *présent* en classe. Différents étudiants ont différentes façons de communiquer et de s'engager avec le contenu de la classe, toutes aussi importantes. Tout ira bien tant que vous ferez le travail.
+Ce cours sera très participatif. J'attends de vous que vous contribuiez aux discussions, que vous vous engagiez dans des travaux de groupe, que vous donniez des commentaires à vos pairs et que vous soyez pleinement *présent* en classe. Différents étudiants ont différentes façons de communiquer et de s'engager avec le contenu de la classe, toutes aussi importantes. Tout ira bien tant que vous ferez le travail.
 
 Cette classe est censée être un espace sûr dans lequel vous vous sentez encouragé et soutenu dans l'apprentissage et la prise de risques créatifs. Cela signifie être conscient et attentif aux différents horizons, perspectives et identités. Respectez-vous les uns les autres et cet espace que nous construisons ensemble. Ne présumez pas. Essayez de rester ouvert à l'apprentissage à tout moment. Aidez-vous les uns les autres en cela. S'il y a des inquiétudes, veuillez m'en informer.
 
