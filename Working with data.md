@@ -22,7 +22,7 @@ Attention à ne pas passer plus de 1/2h par exercice et ne pas aller trop loin d
 * Eventuellement utiliser https://p5js.org/reference/#/p5/image pour afficher une image du vaisseau.
 * Envoyer sur discord le lien vers le sketch P5
 
-### 10.5: Working with APIs in Javascript - p5.js Tutorial
+#### 10.5: Working with APIs in Javascript - p5.js Tutorial
 
 * Se créer un compte sur https://openweathermap.org/
 * Recuperer son API key sur https://home.openweathermap.org/api_keys
