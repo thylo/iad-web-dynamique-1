@@ -1,4 +1,4 @@
-#iad #dw1
+# Working with data
 
 Regarder les vidéos de Daniel Shiffman sur l'utilisation des données :
 https://www.youtube.com/playlist?list=PLRqwX-V7Uu6a-SQiI4RtIwuOrLJGnel0r
