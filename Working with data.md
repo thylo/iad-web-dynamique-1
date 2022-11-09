@@ -1,3 +1,4 @@
+#iad #dw1
 
 Regarder les vidéos de Daniel Shiffman sur l'utilisation des données :
 https://www.youtube.com/playlist?list=PLRqwX-V7Uu6a-SQiI4RtIwuOrLJGnel0r
@@ -64,3 +65,4 @@ Pour pallier à cette limitation, j'ai implementé un petit serveur nodeJS qui p
 Les instructions pour son utilisation se trouvent ici : https://github.com/thylo/iad-cors-proxy
 
 Exemple : https://editor.p5js.org/thylo/sketches/mBCBJ9Hmd
+
