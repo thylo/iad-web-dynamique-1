@@ -38,5 +38,3 @@ Credits: [voidlab](https://github.com/voidlab/diversity-statement).
 Au plus deux (2) absences non excusées seront tolérées sans effet sur votre note. Plus de deux (2) absences non excusées entraîneront une baisse de votre note finale d'une note entière pour chaque absence non excusée. Deux (2) arrivées tardives compteront pour une (1) absence.
 
 S'il y a une urgence et que vous devez manquer le cours, envoyez un e-mail à julien.moreau@iad-arts.be
-
-[Networked media](Networked%20media.md)
