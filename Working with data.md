@@ -11,7 +11,7 @@ Attention à ne pas passer plus de 1/2h par exercice et ne pas aller trop loin d
 #### 10.3: What is JSON?
 
 * Choisir un set de donnée sur https://github.com/Tressley/hpjson ou https://github.com/dariusk/corpora
-* Charger le JSON en local ou referencer son url distante (p.ex https://raw.githubusercontent.com/Tressley/hpjson/master/sets/adventures%20at%20hogwarts/cards.json)
+* Charger le JSON en local
 * Afficher une liste des données récupérées. 
 * Envoyer sur discord le lien vers le sketch P5 
 
