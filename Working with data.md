@@ -12,7 +12,7 @@ Attention à ne pas passer plus de 1/2h par exercice et ne pas aller trop loin d
 
 * Choisir un set de donnée sur https://github.com/Tressley/hpjson ou https://github.com/dariusk/corpora
 * Charger le JSON en local
-* Afficher une liste des données récupérées. 
+* Afficher en liste les données récupérées. 
 * Envoyer sur discord le lien vers le sketch P5 
 
 #### 10.4: Loading JSON data from a URL (Asynchronous Callbacks!)
